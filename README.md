@@ -4,7 +4,7 @@ NIM     : 312210108
 
 Kelas   : TI.22.B1
 
-                Repositiry ini dibuat untuk memenuhi tugas Pertemuan ke 9 Module Praktikum 4 (B.Pemograman)
+              Repositiry ini dibuat untuk memenuhi tugas Pertemuan ke 9 Praktikun 4 Module Bahasa Pemograman
 
 Pada halaman ini Tugas Pertemuan ke 9 Module Praktikum 4 Dosen memberi tugas dua bahan praktik seperti berikut:
 
@@ -66,7 +66,7 @@ Pada halaman ini Tugas Pertemuan ke 9 Module Praktikum 4 Dosen memberi tugas dua
 
   ![Latihan_4_Module](https://user-images.githubusercontent.com/115520278/202365573-a99ad186-089f-4b37-bf87-75be71e3066f.PNG)
   
-2.  Soal Tugas Praktikum Module 4
+2.  Soal Tugas Praktikum 4 Module 
 
     ![Tugas Pratikum](https://user-images.githubusercontent.com/115520278/202365940-26bfdf4b-58c2-4e92-b7c2-4d60e6ca5965.png)
     
@@ -117,7 +117,7 @@ Pada halaman ini Tugas Pertemuan ke 9 Module Praktikum 4 Dosen memberi tugas dua
               x.add_row([no, isi[0], isi[1], isi[2], isi[3], isi[4], isi[5]])
           print(x)
           
-- Berikut hasil run syntax yang saya buat untuk memenuhi praktikum module 4 
+- Berikut hasil run syntax yang saya buat untuk memenuhi praktikum 4 module  
 
   ![2022-11-17](https://user-images.githubusercontent.com/115520278/202366520-014b7683-871d-43a7-b8de-f4675871d79c.png)
   
