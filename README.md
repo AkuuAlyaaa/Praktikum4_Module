@@ -4,7 +4,7 @@ NIM     : 312210108
 
 Kelas   : TI.22.B1
 
-              Repositiry ini dibuat untuk memenuhi tugas Pertemuan ke 9 Praktikun 4 Module Bahasa Pemograman
+              Repository ini dibuat untuk memenuhi tugas Pertemuan ke 9 Praktikun 4 Module Bahasa Pemograman
 
 Pada halaman ini Tugas Pertemuan ke 9 Module Praktikum 4 Dosen memberi tugas dua bahan praktik seperti berikut:
 
