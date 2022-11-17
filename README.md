@@ -6,7 +6,7 @@ Kelas   : TI.22.B1
 
               Repository ini dibuat untuk memenuhi tugas Pertemuan ke 9 Praktikun 4 Module Bahasa Pemograman
 
-Pada halaman ini Tugas Pertemuan ke 9 Module Praktikum 4 Dosen memberi tugas dua bahan praktik seperti berikut:
+Pada halaman ini Tugas Pertemuan ke 9 Module Praktikum 4,Dosen memberi tugas dua bahan praktik seperti berikut:
 
 1.  Soal Latihan yang ada pada module praktikum 4
 
